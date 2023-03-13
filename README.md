@@ -3,8 +3,8 @@
 Мой стек технологий:
 <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=Python"/>
 <img src="https://img.shields.io/badge/Linux-red?style=for-the-badge&logo=Linux"/> 
-<img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=Docker"/>
-<img src="https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=Kubernetes"/> 
+<img src="https://img.shields.io/badge/Docker-green?style=for-the-badge&logo=Docker"/>
+<img src="https://img.shields.io/badge/Kubernetes-black?style=for-the-badge&logo=Kubernetes"/> 
 
 <!--
 **Loperr/Loperr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
