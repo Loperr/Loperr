@@ -4,7 +4,10 @@
 <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=Python"/>
 <img src="https://img.shields.io/badge/Linux-red?style=for-the-badge&logo=Linux"/> 
 <img src="https://img.shields.io/badge/Docker-green?style=for-the-badge&logo=Docker"/>
-<img src="https://img.shields.io/badge/Kubernetes-black?style=for-the-badge&logo=Kubernetes"/> 
+<img src="https://img.shields.io/badge/Kubernetes-black?style=for-the-badge&logo=Kubernetes"/>
+<img src="https://img.shields.io/badge/Ansible-grey?style=for-the-badge&logo=Ansible"/>
+<img src="https://img.shields.io/badge/Grafana-black?style=for-the-badge&logo=Grafana"/>
+<img src="https://img.shields.io/badge/Prometheus-black?style=for-the-badge&logo=Prometheus"/>
 
 <!--
 **Loperr/Loperr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
