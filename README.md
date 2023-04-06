@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/Prometheus-black?style=for-the-badge&logo=Prometheus"/>
 <img src="https://img.shields.io/badge/Powershell-black?style=for-the-badge&logo=Powershell"/>
 ### Связаться со мной:
-<img src="http://qrcoder.ru/code/?loperr.tech&4&0"/>
+<img src="http://qrcoder.ru/code/?https%3A%2F%2Floperr.tech%2F&4&0"/>
 <!--
 **Loperr/Loperr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
