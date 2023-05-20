@@ -1,5 +1,7 @@
 ### Всем привет! 👋
 Меня зовут Саша, я совершаю потуги в сторону DevOps уже 2 с чем-то года. Пока гитхаб немного пустой, но это временно.
+Мой Gitlab:
+https://gitlab.com/xkosheyx
 Мой стек технологий:
 <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python"/>
 <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=Linux"/> 
