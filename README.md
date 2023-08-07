@@ -1,5 +1,6 @@
 ### Всем привет! 👋
 Меня зовут Саша, я совершаю потуги в сторону DevOps уже 2 с чем-то года. Пока гитхаб немного пустой, но это временно.
+[![Loperr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Loperr)](https://github.com/Loperr/github-readme-stats)
 
 Мой Gitlab:
 https://gitlab.com/xkosheyx
