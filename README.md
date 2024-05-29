@@ -11,8 +11,6 @@ https://gitlab.com/xkosheyx
 <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=Linux"/> 
 <img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=Docker"/>
 
-### Связаться со мной:
-<img src="http://qrcoder.ru/code/?https%3A%2F%2Floperr.tech%2F&4&0"/>
 <!--
 **Loperr/Loperr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
